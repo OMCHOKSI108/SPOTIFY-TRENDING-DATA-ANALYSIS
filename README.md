@@ -1,6 +1,4 @@
-Here’s a clean and professional `README.md` file for your project titled **Spotify Streaming Data Analysis**, credited to you, **Om Choksi**:
 
----
 
 ```markdown
 # Spotify Streaming Data Analysis 🎧📊  
@@ -50,6 +48,7 @@ This project focuses on analyzing personal Spotify streaming history data to unc
    git clone https://github.com/yourusername/spotify-streaming-analysis.git
    cd spotify-streaming-analysis
    ```
+
 
 3. **Install required packages:**
    ```bash
